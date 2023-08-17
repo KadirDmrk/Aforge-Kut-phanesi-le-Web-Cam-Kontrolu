@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aforge Kütüphanesi İle Web Cam Kontrolü", "Aforge Kütüphanesi İle Web Cam Kontrolü\Aforge Kütüphanesi İle Web Cam Kontrolü.csproj", "{AFA54708-C498-4EF0-A91B-F1B1F17B743F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA54708-C498-4EF0-A91B-F1B1F17B743F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA54708-C498-4EF0-A91B-F1B1F17B743F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA54708-C498-4EF0-A91B-F1B1F17B743F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA54708-C498-4EF0-A91B-F1B1F17B743F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A27EC483-0684-4053-964F-ADC3A092DC04}
+	EndGlobalSection
+EndGlobal
